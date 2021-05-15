@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lab7.1.1_ITETARION", "Lab7.1.1_ITETARION\Lab7.1.1_ITETARION.vcxproj", "{0C801726-D751-4A39-837D-9070D7EAACA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Debug|x64.ActiveCfg = Debug|x64
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Debug|x64.Build.0 = Debug|x64
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Debug|x86.Build.0 = Debug|Win32
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Release|x64.ActiveCfg = Release|x64
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Release|x64.Build.0 = Release|x64
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Release|x86.ActiveCfg = Release|Win32
+		{0C801726-D751-4A39-837D-9070D7EAACA8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02871AEE-7345-44CC-9155-475E6A61488B}
+	EndGlobalSection
+EndGlobal
